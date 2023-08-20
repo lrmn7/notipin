@@ -1,0 +1,15 @@
+<License Signature="IFlAEc6cS05LMOv+bCdcMa1z6UCrPo9MEvZH2LTC/PEEe/+6JbftU86mkgCsV+fytjFIVtwOzPGN3ulTiZu9Sw==">
+  <LicensedTo>L RMN</LicensedTo>
+  <LicenseKey>36113-14334-52427-61706</LicenseKey>
+  <Version>2.0<!-- License Schema Version --></Version>
+  <ValidFrom>2023-08-18</ValidFrom>
+  <Kind>Subscription</Kind>
+  <ValidTo>2024-08-18</ValidTo>
+  <Permissions>Restricted</Permissions>
+  <ProjectLimit>5</ProjectLimit>
+  <MachineLimit>5</MachineLimit>
+  <UserLimit>5</UserLimit>
+  <NodeLimit>Unlimited</NodeLimit>
+  <SpaceLimit>Unlimited</SpaceLimit>
+  <TaskCap>5</TaskCap>
+</License>
